@@ -12,7 +12,15 @@ Agora eu vou adicionar 2 colaboradores a esse desafio.
  ![gif de brinde ](https://media.tenor.com/bJ1zMWkMeUEAAAAM/thank-you-thank-you-sir.gif)
   
   um brinde a amizade e tambem a vida.
-  
+
+</div>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div><br />
+
+
+
 
 
 
