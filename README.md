@@ -22,3 +22,6 @@ Agora eu vou adicionar 2 colaboradores a esse desafio.
 [<img src="https://img.youtube.com/vi/0X_raf5-5Oc/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=0X_raf5-5Oc)
 
 
+<a href="https://www.youtube.com/watch?v=0X_raf5-5Oc">
+  <img src="https://img.youtube.com/vi/0X_raf5-5Oc/maxresdefault.jpg" width="300">
+</a>
