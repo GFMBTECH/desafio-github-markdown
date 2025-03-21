@@ -17,10 +17,6 @@ Agora eu vou adicionar 2 colaboradores a esse desafio.
 
 ### vamos rir!!
 
-[![teste](https://img.youtube.com/vi/NLqQZaD9Dco/maxresdefault.jpg)](https://www.youtube.com/watch?v=NLqQZaD9Dco)
-
-[<img src="https://img.youtube.com/vi/NLqQZaD9Dco/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=NLqQZaD9Dco)
-
 
 <a href="https://www.youtube.com/watch?v=NLqQZaD9Dco">
   <img src="https://img.youtube.com/vi/NLqQZaD9Dco/maxresdefault.jpg" width="300">
