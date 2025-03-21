@@ -17,7 +17,7 @@ Agora eu vou adicionar 2 colaboradores a esse desafio.
 
 ### vamos rir!!
 
-[![Título do vídeo](https://img.youtube.com/vi/aw7T67pe_Lo/maxresdefault.jpg)](https://www.youtube.com/watch?v=aw7T67pe_Lo)
+[![corte dos melhores momentos com os integrantes do pânico](https://img.youtube.com/vi/aw7T67pe_Lo/maxresdefault.jpg)](https://www.youtube.com/watch?v=aw7T67pe_Lo)
 
 
 
