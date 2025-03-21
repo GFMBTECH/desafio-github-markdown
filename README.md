@@ -20,11 +20,3 @@ Agora eu vou adicionar 2 colaboradores a esse desafio.
 [![corte dos melhores momentos com os integrantes do pânico](https://img.youtube.com/vi/0X_raf5-5Oc/maxresdefault.jpg)](https://www.youtube.com/watch?v=0X_raf5-5Oc)
 
 
-
-<<<<<<< HEAD
-
-
-
-=======
-
->>>>>>> e4997a76ec3e53cad7276f818ef32a7ee4183d5d
