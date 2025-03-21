@@ -17,11 +17,11 @@ Agora eu vou adicionar 2 colaboradores a esse desafio.
 
 ### vamos rir!!
 
-[![corte dos melhores momentos com os integrantes do pânico]()](https://www.youtube.com/watch?v=0X_raf5-5Oc)
+[![teste](https://img.youtube.com/vi/NLqQZaD9Dco/maxresdefault.jpg)](https://www.youtube.com/watch?v=NLqQZaD9Dco)
 
-[<img src="https://img.youtube.com/vi/0X_raf5-5Oc/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=0X_raf5-5Oc)
+[<img src="https://img.youtube.com/vi/NLqQZaD9Dco/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=NLqQZaD9Dco)
 
 
-<a href="https://www.youtube.com/watch?v=0X_raf5-5Oc">
-  <img src="https://img.youtube.com/vi/0X_raf5-5Oc/maxresdefault.jpg" width="300">
+<a href="https://www.youtube.com/watch?v=NLqQZaD9Dco">
+  <img src="https://img.youtube.com/vi/NLqQZaD9Dco/maxresdefault.jpg" width="300">
 </a>
